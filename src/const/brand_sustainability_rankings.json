@@ -1,0 +1,367 @@
+[
+ {
+   "Company Name": " Patagonia           ",
+   "Sector": " Clothing ",
+   "Sustainability Ranking": 92
+ },
+ {
+   "Company Name": " Adidas              ",
+   "Sector": " Clothing ",
+   "Sustainability Ranking": 89
+ },
+ {
+   "Company Name": " H&M                 ",
+   "Sector": " Clothing ",
+   "Sustainability Ranking": 85
+ },
+ {
+   "Company Name": " Zara                ",
+   "Sector": " Clothing ",
+   "Sustainability Ranking": 88
+ },
+ {
+   "Company Name": " Levi's              ",
+   "Sector": " Clothing ",
+   "Sustainability Ranking": 91
+ },
+ {
+   "Company Name": " Nike                ",
+   "Sector": " Clothing ",
+   "Sustainability Ranking": 86
+ },
+ {
+   "Company Name": " Uniqlo              ",
+   "Sector": " Clothing ",
+   "Sustainability Ranking": 87
+ },
+ {
+   "Company Name": " Gap                 ",
+   "Sector": " Clothing ",
+   "Sustainability Ranking": 90
+ },
+ {
+   "Company Name": " Puma                ",
+   "Sector": " Clothing ",
+   "Sustainability Ranking": 88
+ },
+ {
+   "Company Name": " Burberry            ",
+   "Sector": " Clothing ",
+   "Sustainability Ranking": 93
+ },
+ {
+   "Company Name": " Forever 21          ",
+   "Sector": " Clothing ",
+   "Sustainability Ranking": 89
+ },
+ {
+   "Company Name": " Target              ",
+   "Sector": " Retail   ",
+   "Sustainability Ranking": 87
+ },
+ {
+   "Company Name": " Walmart             ",
+   "Sector": " Retail   ",
+   "Sustainability Ranking": 86
+ },
+ {
+   "Company Name": " Costco              ",
+   "Sector": " Retail   ",
+   "Sustainability Ranking": 91
+ },
+ {
+   "Company Name": " Amazon              ",
+   "Sector": " Retail   ",
+   "Sustainability Ranking": 89
+ },
+ {
+   "Company Name": " Starbucks           ",
+   "Sector": " Food     ",
+   "Sustainability Ranking": 90
+ },
+ {
+   "Company Name": " McDonald's          ",
+   "Sector": " Food     ",
+   "Sustainability Ranking": 88
+ },
+ {
+   "Company Name": " Coca-Cola           ",
+   "Sector": " Food     ",
+   "Sustainability Ranking": 87
+ },
+ {
+   "Company Name": " Nestle              ",
+   "Sector": " Food     ",
+   "Sustainability Ranking": 92
+ },
+ {
+   "Company Name": " Whole Foods Market  ",
+   "Sector": " Food     ",
+   "Sustainability Ranking": 88
+ },
+ {
+   "Company Name": " Trader Joe's        ",
+   "Sector": " Food     ",
+   "Sustainability Ranking": 90
+ },
+ {
+   "Company Name": " Kroger              ",
+   "Sector": " Food     ",
+   "Sustainability Ranking": 87
+ },
+ {
+   "Company Name": " Aldi                ",
+   "Sector": " Retail   ",
+   "Sustainability Ranking": 91
+ },
+ {
+   "Company Name": " IKEA                ",
+   "Sector": " Retail   ",
+   "Sustainability Ranking": 89
+ },
+ {
+   "Company Name": " The Body Shop       ",
+   "Sector": " Beauty   ",
+   "Sustainability Ranking": 87
+ },
+ {
+   "Company Name": " Lush                ",
+   "Sector": " Beauty   ",
+   "Sustainability Ranking": 92
+ },
+ {
+   "Company Name": " Sephora             ",
+   "Sector": " Beauty   ",
+   "Sustainability Ranking": 88
+ },
+ {
+   "Company Name": " Ulta Beauty         ",
+   "Sector": " Beauty   ",
+   "Sustainability Ranking": 90
+ },
+ {
+   "Company Name": " Estée Lauder        ",
+   "Sector": " Beauty   ",
+   "Sustainability Ranking": 87
+ },
+ {
+   "Company Name": " MAC Cosmetics       ",
+   "Sector": " Beauty   ",
+   "Sustainability Ranking": 91
+ },
+ {
+   "Company Name": " Chanel              ",
+   "Sector": " Beauty   ",
+   "Sustainability Ranking": 89
+ },
+ {
+   "Company Name": " L'Oréal             ",
+   "Sector": " Beauty   ",
+   "Sustainability Ranking": 86
+ },
+ {
+   "Company Name": " Johnson & Johnson   ",
+   "Sector": " Beauty   ",
+   "Sustainability Ranking": 93
+ },
+ {
+   "Company Name": " Procter & Gamble    ",
+   "Sector": " Beauty   ",
+   "Sustainability Ranking": 89
+ },
+ {
+   "Company Name": " Apple               ",
+   "Sector": " Technology",
+   "Sustainability Ranking": 87
+ },
+ {
+   "Company Name": " Microsoft           ",
+   "Sector": " Technology",
+   "Sustainability Ranking": 92
+ },
+ {
+   "Company Name": " Samsung             ",
+   "Sector": " Technology",
+   "Sustainability Ranking": 88
+ },
+ {
+   "Company Name": " Google              ",
+   "Sector": " Technology",
+   "Sustainability Ranking": 90
+ },
+ {
+   "Company Name": " IBM                 ",
+   "Sector": " Technology",
+   "Sustainability Ranking": 87
+ },
+ {
+   "Company Name": " Sony                ",
+   "Sector": " Technology",
+   "Sustainability Ranking": 91
+ },
+ {
+   "Company Name": " Dell                ",
+   "Sector": " Technology",
+   "Sustainability Ranking": 89
+ },
+ {
+   "Company Name": " HP                  ",
+   "Sector": " Technology",
+   "Sustainability Ranking": 86
+ },
+ {
+   "Company Name": " Tesla               ",
+   "Sector": " Automotive",
+   "Sustainability Ranking": 93
+ },
+ {
+   "Company Name": " Toyota              ",
+   "Sector": " Automotive",
+   "Sustainability Ranking": 89
+ },
+ {
+   "Company Name": " Ford                ",
+   "Sector": " Automotive",
+   "Sustainability Ranking": 87
+ },
+ {
+   "Company Name": " BMW                 ",
+   "Sector": " Automotive",
+   "Sustainability Ranking": 91
+ },
+ {
+   "Company Name": " Mercedes-Benz       ",
+   "Sector": " Automotive",
+   "Sustainability Ranking": 88
+ },
+ {
+   "Company Name": " Honda               ",
+   "Sector": " Automotive",
+   "Sustainability Ranking": 90
+ },
+ {
+   "Company Name": " Volkswagen          ",
+   "Sector": " Automotive",
+   "Sustainability Ranking": 87
+ },
+ {
+   "Company Name": " General Motors      ",
+   "Sector": " Automotive",
+   "Sustainability Ranking": 91
+ },
+ {
+   "Company Name": " Netflix             ",
+   "Sector": " Entertainment",
+   "Sustainability Ranking": 89
+ },
+ {
+   "Company Name": " Disney              ",
+   "Sector": " Entertainment",
+   "Sustainability Ranking": 87
+ },
+ {
+   "Company Name": " Spotify             ",
+   "Sector": " Entertainment",
+   "Sustainability Ranking": 92
+ },
+ {
+   "Company Name": " Amazon Prime Video  ",
+   "Sector": " Entertainment",
+   "Sustainability Ranking": 88
+ },
+ {
+   "Company Name": " Warner Bros.        ",
+   "Sector": " Entertainment",
+   "Sustainability Ranking": 90
+ },
+ {
+   "Company Name": " Universal Pictures  ",
+   "Sector": " Entertainment",
+   "Sustainability Ranking": 87
+ },
+ {
+   "Company Name": " Sony Pictures       ",
+   "Sector": " Entertainment",
+   "Sustainability Ranking": 91
+ },
+ {
+   "Company Name": " Paramount Pictures  ",
+   "Sector": " Entertainment",
+   "Sustainability Ranking": 89
+ },
+ {
+   "Company Name": " Coca-Cola           ",
+   "Sector": " Beverage  ",
+   "Sustainability Ranking": 86
+ },
+ {
+   "Company Name": " PepsiCo             ",
+   "Sector": " Beverage  ",
+   "Sustainability Ranking": 93
+ },
+ {
+   "Company Name": " Starbucks           ",
+   "Sector": " Beverage  ",
+   "Sustainability Ranking": 88
+ },
+ {
+   "Company Name": " The Coca-Cola Company",
+   "Sector": " Beverage ",
+   "Sustainability Ranking": 90
+ },
+ {
+   "Company Name": " Nestle Waters       ",
+   "Sector": " Beverage  ",
+   "Sustainability Ranking": 87
+ },
+ {
+   "Company Name": " Anheuser-Busch      ",
+   "Sector": " Beverage  ",
+   "Sustainability Ranking": 91
+ },
+ {
+   "Company Name": " Red Bull            ",
+   "Sector": " Beverage  ",
+   "Sustainability Ranking": 89
+ },
+ {
+   "Company Name": " The Hershey Company ",
+   "Sector": " Food     ",
+   "Sustainability Ranking": 86
+ },
+ {
+   "Company Name": " Mars, Incorporated  ",
+   "Sector": " Food     ",
+   "Sustainability Ranking": 92
+ },
+ {
+   "Company Name": " Mondelez International",
+   "Sector": " Food   ",
+   "Sustainability Ranking": 88
+ },
+ {
+   "Company Name": " General Mills       ",
+   "Sector": " Food     ",
+   "Sustainability Ranking": 90
+ },
+ {
+   "Company Name": " Kellogg's           ",
+   "Sector": " Food     ",
+   "Sustainability Ranking": 87
+ },
+ {
+   "Company Name": " Hershey's           ",
+   "Sector": " Food     ",
+   "Sustainability Ranking": 91
+ },
+ {
+   "Company Name": " Ferrero             ",
+   "Sector": " Food     ",
+   "Sustainability Ranking": 89
+ },
+ {
+   "Company Name": " McCain Foods        ",
+   "Sector": " Food     ",
+   "Sustainability Ranking": 86
+ }
+]
