@@ -1,7 +1,7 @@
 {
-  "name": "chrome-extension-boilerplate-react-vite",
+  "name": "eco-picker-extension",
   "version": "0.0.1",
-  "description": "chrome extension boilerplate",
+  "description": "eco picker extension - buhacks 2023",
   "license": "MIT",
   "repository": {
     "type": "git",
