@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Shampoo bottle body -->
+  <rect x="30" y="20" width="40" height="50" fill="#3498db" />
+
+  <!-- Shampoo bottle neck -->
+  <rect x="45" y="10" width="10" height="10" fill="#2c3e50" />
+
+  <!-- Shampoo liquid -->
+  <rect x="35" y="30" width="30" height="40" fill="#ecf0f1" />
+
+  <!-- Shampoo label text -->
+  <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" fill="#2c3e50" font-size="10">
+    Shampoo
+  </text>
+</svg>
