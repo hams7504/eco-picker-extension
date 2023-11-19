@@ -1,0 +1,152 @@
+#brand {
+    font-family: josefin-sans;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background: linear-gradient(to bottom, #e8f5fe, #81c9fa);
+    font-size: 50px;
+
+}
+
+#brandh1 {
+    margin-top: 40px;
+    margin-bottom: 10px;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 100px;
+    color: #020998; 
+
+}
+
+.storep1 {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: flex-end;
+    width: 100%; 
+}
+
+.cropped-img {
+    margin-top: 10px;
+    width: 200px; 
+    height: auto; 
+    margin-bottom: 20px
+}
+
+#targetb1 {
+    margin-top: 10px;
+    width: 350px;
+    height: 100px;
+    object-position: left;
+
+}
+
+#sephorab1 {
+    margin-top: 10px;
+    width: 270px;
+    height: 50px;
+    object-position: center;
+    
+}
+
+#starmarketb1 {
+    margin-top: 10px;
+    width: 350px; 
+    height: 130px;
+    object-position: right;
+}
+
+.store1btn {
+    display: flex;
+    justify-content: space-between; 
+    width: 100%;
+    margin-top: 20px; 
+}
+
+button {
+    flex: 1;
+    padding: 5px;
+    font-size: 16px;
+    margin: 50px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: transparent; 
+    border: 2px solid #3162f5; 
+    color: #3162f5;
+}
+
+#targetbtn {
+    font-size: 20px;
+}
+#sephorabtn {
+    font-size: 20px;
+}
+#starbtn {
+    font-size: 20px;
+}
+
+.storep2 {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: flex-end;
+    width: 100%; 
+}
+
+.cropped-img {
+    margin-top: 10px;
+    width: 200px; 
+    height: auto; 
+    margin-bottom: 20px
+}
+
+#wayfairb1 {
+    margin-top: 10px;
+    width: 350px;
+    height: 100px;
+    object-position: left;
+
+}
+
+#sheinb1 {
+    margin-top: 10px;
+    width: 270px;
+    height: 120px;
+    object-position: center;
+    
+}
+
+#pepsicob1 {
+    margin-top: 10px;
+    width: 350px; 
+    height: 130px;
+    margin-right: 10px;
+    object-position: right;
+}
+
+.store2btn {
+    display: flex;
+    justify-content: space-between; 
+    width: 100%;
+    margin-top: 20px; 
+}
+
+button {
+    flex: 1;
+    padding: 5px;
+    font-size: 16px;
+    margin: 50px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: transparent; 
+    border: 2px solid #3162f5; 
+    color: #3162f5;
+}
+
+#wayfairbtn {
+    font-size: 20px;
+}
+#sheinbtn {
+    font-size: 20px;
+}
+#pepsicobtn {
+    font-size: 20px;
+}
