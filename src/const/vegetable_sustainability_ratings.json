@@ -16,7 +16,7 @@
  },
  {
    "id": 4,
-   "product_name": "Juice - Prune",
+   "product_name": "Prune Juice",
    "sustainability_ranking": 62
  },
  {
@@ -61,7 +61,7 @@
  },
  {
    "id": 13,
-   "product_name": "Juice - Tomato, 10 Oz",
+   "product_name": "Tomato Juice, 10 Oz",
    "sustainability_ranking": 7
  },
  {
@@ -106,7 +106,7 @@
  },
  {
    "id": 22,
-   "product_name": "Juice - Ocean Spray Kiwi",
+   "product_name": "Ocean Spray Kiwi Juice",
    "sustainability_ranking": 13
  },
  {
@@ -351,7 +351,7 @@
  },
  {
    "id": 71,
-   "product_name": "Juice Peach Nectar",
+   "product_name": "Peach Nectar Juice",
    "sustainability_ranking": 61
  },
  {
@@ -366,7 +366,7 @@
  },
  {
    "id": 74,
-   "product_name": "Juice - Tomato, 10 Oz",
+   "product_name": "Carrot Juice, 10 Oz",
    "sustainability_ranking": 8
  },
  {
@@ -611,7 +611,7 @@
  },
  {
    "id": 123,
-   "product_name": "Juice - Clamato, 341 Ml",
+   "product_name": "Clamato Juice, 341 Ml",
    "sustainability_ranking": 51
  },
  {
@@ -1106,7 +1106,7 @@
  },
  {
    "id": 222,
-   "product_name": "Juice - Clamato, 341 Ml",
+   "product_name": "Lime Juice, 341 Ml",
    "sustainability_ranking": 3
  },
  {
@@ -1636,7 +1636,7 @@
  },
  {
    "id": 328,
-   "product_name": "Juice - Propel Sport",
+   "product_name": "Propel Sport Juice",
    "sustainability_ranking": 97
  },
  {
@@ -2811,7 +2811,7 @@
  },
  {
    "id": 563,
-   "product_name": "Nantucket Orange Juice",
+   "product_name": "Mixed Berry Juice",
    "sustainability_ranking": 64
  },
  {
@@ -2921,7 +2921,7 @@
  },
  {
    "id": 585,
-   "product_name": "Juice - Orange",
+   "product_name": "Orange Juice",
    "sustainability_ranking": 36
  },
  {
@@ -3466,7 +3466,7 @@
  },
  {
    "id": 694,
-   "product_name": "Juice - Orange, Concentrate",
+   "product_name": "Orange Concentrate",
    "sustainability_ranking": 92
  },
  {
@@ -3476,7 +3476,7 @@
  },
  {
    "id": 696,
-   "product_name": "Juice - Lemon",
+   "product_name": "Lemon Juice",
    "sustainability_ranking": 63
  },
  {
@@ -3841,7 +3841,7 @@
  },
  {
    "id": 769,
-   "product_name": "Juice - Grapefruit, 341 Ml",
+   "product_name": "Grapefruit Juice, 341 Ml",
    "sustainability_ranking": 63
  },
  {
@@ -4896,7 +4896,7 @@
  },
  {
    "id": 980,
-   "product_name": "Juice - Orange",
+   "product_name": "Pomegranate Juice",
    "sustainability_ranking": 13
  },
  {
