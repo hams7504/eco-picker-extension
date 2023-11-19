@@ -64,27 +64,27 @@ const data01 = [
 const data02 = [
   {
     name: 'Group A',
-    value: 2400,
+    value: 2,
   },
   {
     name: 'Group B',
-    value: 4567,
+    value: 4,
   },
   {
     name: 'Group C',
-    value: 1398,
+    value: 8,
   },
   {
     name: 'Group D',
-    value: 9800,
+    value: 2,
   },
   {
     name: 'Group E',
-    value: 3908,
+    value: 3,
   },
   {
     name: 'Group F',
-    value: 4800,
+    value: 2,
   },
 ];
 
@@ -208,9 +208,11 @@ function App() {
                   <Text style={{ marginBottom: '10px' }}>Items bought:</Text>
                   <HStack style={{ marginLeft: 'auto', marginBottom: '10px' }}>
                     <Text style={{ marginTop: '1px', marginRight: '5px' }}>Missing an item?</Text>
-                    <Button colorScheme="white" variant="outline">
-                      Add item
-                    </Button>
+                    <a href='http://localhost:3000/product_demo'>
+                      <Button colorScheme="white" variant="outline">
+                        Add item
+                      </Button>
+                    </a>
                   </HStack>
                 </HStack>
                 <SimpleGrid width="600px" spacing={4} templateColumns="repeat(auto-fill, minmax(200px, 1fr))">
