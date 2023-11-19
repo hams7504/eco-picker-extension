@@ -3,8 +3,46 @@ import '@pages/popup/Popup.css';
 import { ChakraProvider, CircularProgress, CircularProgressLabel, Text, Button, HStack, Box } from '@chakra-ui/react';
 import withSuspense from '@src/shared/hoc/withSuspense';
 import withErrorBoundary from '@src/shared/hoc/withErrorBoundary';
+import axios from 'axios';
+import * as cheerio from 'cheerio';
+// import Brand from './brandInterface';
+import brandsData from 'src/const/brand_sustainability_rankings.json';
+
+// const url_address = 'https://www.target.com/p/general-mills-family-size-cocoa-puffs-cereal/-/A-89089910?preselect=81875680#lnk=sametab';
 
 const Popup = () => {
+  const theme = useStorage(exampleThemeStorage);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        // Make an HTTP GET request to the specified URL
+        const response = await axios.get(window.location.toString());
+        console.log(response.data);
+
+        const $ = cheerio.load(response.data);
+        const brand = $('meta[name="keywords"]').attr('content');
+
+        //checking/matching if brand is in json
+
+        for (const entry of brandsData) {
+          console.log(entry);
+          const name = entry.name;
+          if (typeof name === 'string' && name.includes(brand)) {
+            console.log(`Brand "${brand}" found in sector ${entry.sector}, ranking: ${entry.ranking}`);
+          }
+        }
+
+        // const isPresent = jsonData.includes("General Mills");
+        // console.log(isPresent)
+      } catch (error) {
+        console.error('Error:', error.message);
+      }
+    };
+
+    fetchData();
+  }, []); // Empty dependency array ensures useEffect runs only once
+
   return (
     <ChakraProvider>
       <div
@@ -56,4 +94,4 @@ const Popup = () => {
   );
 };
 
-export default withErrorBoundary(withSuspense(Popup, <div> Loading ... </div>), <div> Error Occur </div>);
+export default withErrorBoundary(withSuspense(Popup, <div> Loading ... </div>), <div> Error Occurred </div>);
