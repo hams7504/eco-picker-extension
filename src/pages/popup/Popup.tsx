@@ -1,4 +1,5 @@
 import product from './product.svg';
+import { useEffect } from 'react';
 import '@pages/popup/Popup.css';
 import { ChakraProvider, CircularProgress, CircularProgressLabel, Text, Button, HStack, Box } from '@chakra-ui/react';
 import withSuspense from '@src/shared/hoc/withSuspense';
@@ -6,12 +7,15 @@ import withErrorBoundary from '@src/shared/hoc/withErrorBoundary';
 import axios from 'axios';
 import * as cheerio from 'cheerio';
 // import Brand from './brandInterface';
-import brandsData from 'src/const/brand_sustainability_rankings.json';
+import brandsData from '.brand_sustainability_rankings.json';
+
+console.log(brandsData);
+console.log(window.location.toString());
 
 // const url_address = 'https://www.target.com/p/general-mills-family-size-cocoa-puffs-cereal/-/A-89089910?preselect=81875680#lnk=sametab';
 
 const Popup = () => {
-  const theme = useStorage(exampleThemeStorage);
+  // const theme = useStorage(exampleThemeStorage);
 
   useEffect(() => {
     const fetchData = async () => {
